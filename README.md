@@ -3,18 +3,22 @@
 > A modern approach to job searching and career development, based on [Lucy Gilmour's](https://www.linkedin.com/in/lucygilmour-careercoach/) methodology.
 
 ## 📁 Structure
-- `!_GUIDE.md` - Main playbook and methodology overview
-- `/resumes` - Targeted resumes and resume writing guides
-- `/cover_letters` - Modern outreach templates and examples
-- `/job_listings` - Job tracking and company research
+- [`!_GUIDE.md`](!_GUIDE.md) - Main playbook and methodology overview
+- `/resumes`
+  - [`!_GUIDE_Resumes.md`](resumes/!_GUIDE_Resumes.md) - Resume writing guide and templates
+- `/cover_letters`
+  - [`!_GUIDE_Cover_Letters.md`](cover_letters/!_GUIDE_Cover_Letters.md) - Modern outreach templates
+- `/job_listings`
+  - [`!_GUIDE_Job_Search.md`](job_listings/!_GUIDE_Job_Search.md) - Job search and tracking guide
+- `/additional_docs`
+  - [`!_GUIDE_Additional_Docs.md`](additional_docs/!_GUIDE_Additional_Docs.md) - Portfolio and documentation guide
 - `/assets` - Supporting files and resources
-- `/additional_docs` - Portfolio items and certifications
 
 ## 🚀 Getting Started
-1. Start with `!_GUIDE.md` for the overall strategy
-2. Set up your targeted resumes in `/resumes`
-3. Customize your outreach templates in `/cover_letters`
-4. Use `/job_listings` to track your applications
+1. Read the [`!_GUIDE.md`](!_GUIDE.md) for the overall strategy
+2. Set up your targeted resumes using the [`!_GUIDE_Resumes.md`](resumes/!_GUIDE_Resumes.md)
+3. Customize your outreach with [`!_GUIDE_Cover_Letters.md`](cover_letters/!_GUIDE_Cover_Letters.md)
+4. Track applications using [`!_GUIDE_Job_Search.md`](job_listings/!_GUIDE_Job_Search.md)
 
 ## 📈 Key Features
 - **Impact-Driven Resumes**: Templates and examples focused on measurable achievements
