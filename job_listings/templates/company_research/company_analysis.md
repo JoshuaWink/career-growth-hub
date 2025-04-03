@@ -1,6 +1,5 @@
 # 🔍 Company Research Template
 
-> Comprehensive company analysis framework following Lucy's boss-hunting approach.
 
 ## Basic Information
 ```markdown

@@ -1,10 +1,8 @@
 # 💬 Modern Cover Letter & Outreach Guide
 
-> **Credit**: This guide is based on the methodology by [Lucy Gilmour](https://www.linkedin.com/in/lucygilmour-careercoach/), career strategy coach and job search expert.
-
 ---
 
-## Lucy's Two Templates Approach
+## Two Templates Approach
 
 ### 1. Three-Sentence Cover Letter (For Active Jobs)
 ```

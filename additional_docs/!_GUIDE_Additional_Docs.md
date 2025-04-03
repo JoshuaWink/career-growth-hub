@@ -1,7 +1,5 @@
 # 🚀 Additional Career Documents Guide
 
-> **Credit**: This guide is based on the methodology by [Lucy Gilmour](https://www.linkedin.com/in/lucygilmour-careercoach/), career strategy coach and job search expert.
-
 ---
 
 ## LinkedIn Profile Optimization

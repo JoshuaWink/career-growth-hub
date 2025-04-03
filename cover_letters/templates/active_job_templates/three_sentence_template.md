@@ -1,7 +1,5 @@
 # Three-Sentence Cover Letter Template
 
-> Following Lucy's concise, value-focused approach for active job applications.
-
 ## Template Structure
 
 ```markdown

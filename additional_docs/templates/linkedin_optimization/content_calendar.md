@@ -1,7 +1,5 @@
 # 📅 LinkedIn Content Strategy Calendar
 
-> Weekly content planning template following Lucy's engagement-driven approach.
-
 ## Monthly Content Rotation
 
 ### Week 1: Industry Insight

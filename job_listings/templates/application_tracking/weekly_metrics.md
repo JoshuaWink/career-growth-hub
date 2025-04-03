@@ -1,7 +1,5 @@
 # 📈 Weekly Job Search Metrics
 
-> Track your job search activity and measure progress using Lucy's metrics-driven approach.
-
 ## Week of [YYYY-MM-DD]
 
 ### Application Activity

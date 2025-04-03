@@ -1,7 +1,5 @@
 # 🎯 Behavioral Interview Preparation
 
-> STAR method templates for common behavioral questions based on Lucy's methodology.
-
 ## STAR Framework Overview
 
 ### Template Structure

@@ -1,7 +1,5 @@
 # 💻 Technical Resume Template
 
-> Impact-driven tech resume following Lucy's metrics-first approach.
-
 ---
 
 ## [Your Name]

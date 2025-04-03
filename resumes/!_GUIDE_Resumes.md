@@ -1,11 +1,9 @@
 # 📄 Resume Guide: Impact Over Activity
 
-> **Credit**: This guide is based on the methodology by [Lucy Gilmour](https://www.linkedin.com/in/lucygilmour-careercoach/), career strategy coach and job search expert.
-
 ---
 
 ## Core Philosophy
-Following Lucy's approach: **Tell a business story, not list responsibilities.**
+Following approach: **Tell a business story, not list responsibilities.**
 
 ## Professional Summary Template
 ```

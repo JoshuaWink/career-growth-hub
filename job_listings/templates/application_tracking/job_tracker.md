@@ -1,7 +1,5 @@
 # 📊 Job Application Tracker
 
-> Comprehensive tracking system for your job search, following Lucy's organized approach.
-
 ## Quick Stats Dashboard
 ```markdown
 Active Applications: [Number]

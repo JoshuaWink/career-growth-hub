@@ -1,7 +1,5 @@
 # 📊 Metrics Achievement Bank
 
-> Collection of quantifiable achievements following Lucy's impact-driven approach.
-
 ## Performance Metrics
 
 ### Revenue Impact
