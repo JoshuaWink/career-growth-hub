@@ -1,6 +1,4 @@
-# 🔥 The Career Growth with Lucy Playbook
-
-> **Credit**: This guide is based on the methodology by [Lucy Gilmour](https://www.linkedin.com/in/lucygilmour-careercoach/), career strategy coach and job search expert.
+# 🔥 The Career Growth with Playbook
 
 ---
 

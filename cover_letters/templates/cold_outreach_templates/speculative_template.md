@@ -1,7 +1,5 @@
 # Cold Outreach Templates
 
-> Templates for proactive outreach following Lucy's value-first approach.
-
 ## Basic Speculative Letter Template
 
 ```markdown

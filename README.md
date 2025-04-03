@@ -1,6 +1,6 @@
 # ⭐️ Career Growth Hub
 
-> A modern approach to job searching and career development, based on [Lucy Gilmour's](https://www.linkedin.com/in/lucygilmour-careercoach/) methodology.
+> A modern approach to job searching and career development
 
 ## 📁 Structure
 - [`!_GUIDE.md`](!_GUIDE.md) - Main playbook and methodology overview
@@ -28,7 +28,7 @@
 - **Application Tracking**: Systems for managing your job search effectively
 
 ## 💡 Philosophy
-This project implements Lucy Gilmour's modern approach to job searching, focusing on:
+This project implements a modern approach to job searching, focusing on:
 - Direct outreach to hiring managers
 - Metrics-based achievement tracking
 - Strategic networking

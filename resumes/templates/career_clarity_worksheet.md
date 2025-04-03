@@ -1,7 +1,5 @@
 # 🎯 Career Clarity Worksheet
 
-> Based on Lucy's methodology of identifying your most energizing achievements to guide career choices.
-
 ## Part 1: Achievement Collection
 
 ### Instructions

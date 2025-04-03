@@ -1,7 +1,5 @@
 # 📅 Follow-up Calendar & Timeline
 
-> Systematic follow-up tracking based on Lucy's proven timeline approach.
-
 ## This Week's Follow-ups
 
 ### Monday [Date]
